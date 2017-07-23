@@ -1,0 +1,9 @@
+H:\Visual Studio Projects\Project_group\Project_group\bin\Debug\Project_group.exe.config
+H:\Visual Studio Projects\Project_group\Project_group\bin\Debug\Project_group.exe
+H:\Visual Studio Projects\Project_group\Project_group\bin\Debug\Project_group.pdb
+H:\Visual Studio Projects\Project_group\Project_group\obj\Debug\Project_group.csprojResolveAssemblyReference.cache
+H:\Visual Studio Projects\Project_group\Project_group\obj\Debug\Project_group.Form1.resources
+H:\Visual Studio Projects\Project_group\Project_group\obj\Debug\Project_group.Properties.Resources.resources
+H:\Visual Studio Projects\Project_group\Project_group\obj\Debug\Project_group.csproj.GenerateResource.Cache
+H:\Visual Studio Projects\Project_group\Project_group\obj\Debug\Project_group.exe
+H:\Visual Studio Projects\Project_group\Project_group\obj\Debug\Project_group.pdb
